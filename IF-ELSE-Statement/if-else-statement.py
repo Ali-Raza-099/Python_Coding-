@@ -1,4 +1,4 @@
-#Even Number finder
+#Even Number finder using if else statement
 
 print("Enter a number:")
 number=input()
