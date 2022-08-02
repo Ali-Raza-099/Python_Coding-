@@ -2,6 +2,7 @@
 fileOpen= open("Pak.txt","r+")
 str=fileOpen.read()
 print(str)
+#opning file 
 fileOpen.close()
 
 
