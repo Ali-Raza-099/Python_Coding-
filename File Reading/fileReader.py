@@ -1,6 +1,7 @@
 #Open a file  and read it
 fileOpen= open("Pak.txt","r+")
 str=fileOpen.read()
+#printing the file data
 print(str)
 #opning file 
 fileOpen.close()
